@@ -13,6 +13,6 @@ Structure of a frame:
 
 > Note: Data is not accurate and shown here just to show that each IP Data is combined with IP Header. It means that if one IP Packet is divided into 20 frames, then IP Header is copied 20 times.
 
-#### References
+## References
 - https://www.geeksforgeeks.org/data-link-layer/
 - https://learningnetwork.cisco.com/s/question/0D53i00000WRWCeCAP/fragmentation-of-ip-packets-into-ethernet-frames-and-defragmentation

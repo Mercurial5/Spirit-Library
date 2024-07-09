@@ -12,3 +12,6 @@ Switch has a table of all devices in the network and their [[MAC Address]]'s. Mo
 | 3           | 10   | C           |
 | 4           | 10   | D           |
 ![[VLAN 1.png]]
+
+## References
+- http://xgu.ru/wiki/VLAN

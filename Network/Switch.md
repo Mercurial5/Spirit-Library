@@ -18,6 +18,6 @@ When device is connected to a network, Switch will save the number of port that 
 
 > Note: Switch in it's table has another field `VLAN`. More about it can be read in [[VLAN]].
 
-#### References:
+## References
 - https://en.wikipedia.org/wiki/Network_switch
 - http://xgu.ru/wiki/VLAN
