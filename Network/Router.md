@@ -5,5 +5,8 @@ Router must have two or more devices and has to be connected to two networks.
 
 [[NAT]] is used on Router.
 
+Since router uses IP Addresses to communicate between different networks, it operates on [[Network layer]].
+
 ## References
 - https://en.wikipedia.org/wiki/Router_(computing)
+- https://unacademy.com/content/gate-cse-it/difference-between-router-and-gateway/
